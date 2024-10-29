@@ -29,6 +29,8 @@
 ## program
 
 * 1~100找質數
+
+* 氣泡排序法(Bubble Sort)
 ```
 //氣泡排序法(Bubble Sort)
 public static void BubbleSort(int[] list)
